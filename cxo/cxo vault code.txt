@@ -9,7 +9,7 @@ import numpy as np
 vaultDNS = "partnersi-prana4life-clinical.veevavault.com"
 version = "v24.1"
 username = "rudhrainfosolutions@partnersi-prana4life.com"
-password = "Rudhrainfo#1"
+password = "Rudhrainfo#05"
 
 # Load the trained XGBoost model
 xg_reg = joblib.load('/content/xgboost_model_study.pkl')
